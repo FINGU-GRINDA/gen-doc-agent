@@ -1,0 +1,37 @@
+{
+  "name": "gen-doc-front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test-api": "node scripts/test-api.js",
+    "test-upstage": "node scripts/test-upstage.js",
+    "test-search": "node scripts/test-search.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@pinecone-database/pinecone": "^6.1.2",
+    "clsx": "^2.1.1",
+    "form-data": "^4.0.4",
+    "lucide-react": "^0.544.0",
+    "next": "15.5.3",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-markdown": "^10.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "@types/node": "^20",
+    "@types/node-fetch": "^2.6.13",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "autoprefixer": "^10.4.21",
+    "dotenv": "^17.2.2",
+    "node-fetch": "^2.7.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5"
+  }
+}
