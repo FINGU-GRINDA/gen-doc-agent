@@ -137,21 +137,3 @@ gen-doc-front/
    - 레퍼런스 문서의 스타일과 문체 참고
 6. **편집기**에서 생성된 제안서 확인 및 수정
 7. AI 채팅으로 실시간 수정
-
-### RFP 검색 팁
-
-- 자연어로 질문 (예: "평가 기준은 무엇인가요?")
-- 키워드 검색 (예: "제안서 목차", "요구사항")
-- 구체적인 검색어로 정확한 결과 획득
-
-## 🤝 기여 방법
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 있습니다.
